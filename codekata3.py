@@ -4,4 +4,4 @@ if a in "!@#$%^&*()_{}+~`":
 elif a in "aAeEiIoOuU":
     print("Vowel")
 else:
-    print("Consonent")
+    print("Consonant")
